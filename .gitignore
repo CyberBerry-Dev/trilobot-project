@@ -1,0 +1,10 @@
+# Whitelist your source and config files (Do NOT ignore these)
+### hides all files except for the ones listed below
+!**/*.cpp
+!**/*.hpp
+!**/*.h
+!**/*.cc
+!**/*.c
+!**/*.txt
+!**/*.md
+!.gitignore
